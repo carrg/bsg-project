@@ -1,0 +1,4 @@
+transaction_id,customer_id,amount,status,transaction_date
+5001,1,500000,PENDING,2024-01-12
+5002,2,1800000,PAID,2024-01-18
+5003,3,300000,PENDING,2024-01-25

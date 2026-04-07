@@ -1,0 +1,4 @@
+customer_id,name,email,phone,city
+1,Juan Perez,juan@mail.com,5551111111,CDMX
+2,Ana Lopez,ana@mail.com,5552222222,Guadalajara
+3,Carlos Ruiz,carlos@mail.com,5553333333,Monterrey

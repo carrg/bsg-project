@@ -1,0 +1,4 @@
+opportunity_id,customer_id,property_id,status,created_date
+1001,1,101,OPEN,2024-01-10
+1002,2,102,CLOSED_WON,2024-01-15
+1003,3,103,OPEN,2024-01-20
