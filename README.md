@@ -1,5 +1,8 @@
 # BSG Project – Pipeline inmobiliario en GCP con GCS, Data Fusion y BigQuery
 
+#### NOTA
+- `URL del video:` https://storage.googleapis.com/bsg-project-lake-bucket/BSG_Project_Video.mp4
+
 ## Objetivo
 Construir un pipeline de datos en GCP para simular la integración de información inmobiliaria proveniente de fuentes tipo Oracle ERP y Salesforce CRM.  
 Los datos se almacenan en Google Cloud Storage como Data Lake, se transforman en Cloud Data Fusion y se cargan en BigQuery para su análisis.
